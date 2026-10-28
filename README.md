@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 IMovies - Next-Gen Cinema Reservation & Real-Time Seat Booking Platform
 
 **IMovies** is a seamless online platform engineered to enhance the cinema-going experience. Built on a full-stack **MERN** architecture (MongoDB, Express.js, React.js, Node.js) with Bootstrap 5 and JWT authentication, it empowers users to explore movie catalogs, inspect showtimes, reserve seats with real-time collision prevention, and obtain contactless digital tickets.
@@ -143,3 +144,6 @@ npm run dev
 ### Admin (`/api/admin`)
 - `GET /api/admin/stats` — Revenue, ticket volume, and reservation statistics
 - `GET /api/admin/bookings` — View platform-wide customer orders
+=======
+# imovies-app
+>>>>>>> 98980e4e9879247b0908ed75a03f816b785c5cd5
